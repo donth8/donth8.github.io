@@ -1,0 +1,15 @@
+.container {
+  padding-top: 5em;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+h3 {
+  text-align: center;
+}
